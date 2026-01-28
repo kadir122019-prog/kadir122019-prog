@@ -1,4 +1,4 @@
-# Kadir
+# R1pper
 
 I build low-level software and learn by shipping real systems. My main project is Fusion, an x86_64 operating system I’m developing from scratch, focused on kernel bring-up and core fundamentals.
 
